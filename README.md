@@ -2,10 +2,8 @@
 Hello everyone, I have made a space invaders game. Space Invaders is a classic arcade-style shooting game where players control a rocket to defend against waves of descending alien ships.
 
 Game Guide
-- Download the main.py file
-- Download the assets
-- Ensure that the files are within the same directory
-- Open the main.py file in any IDE like IDLE Shell, VSCode etc
+- Download the source file
+- Open the source file in any IDE like IDLE Shell, VSCode etc
 - Run the file
 - Use the left and right arrow keys to move the rocket.
 - Press the space bar to shoot bullets.
