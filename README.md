@@ -14,3 +14,7 @@ Features
 - Score Tracking: Keep track of your score and highest level achieved.
 - Menu Options: Pause and resume the game, mute/unmute sound, and view high scores.
 - High Score: Track your high score and continue from where you left off.
+
+<img width="600" alt="snip 2" src="https://github.com/user-attachments/assets/b0347396-5919-4be4-bf25-e6ff11357dfa">
+<img width="599" alt="snip 1" src="https://github.com/user-attachments/assets/ac905935-18be-4416-b284-f01ef941f23d">
+
